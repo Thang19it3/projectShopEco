@@ -1,0 +1,10 @@
+.detailOrd {
+  display: block;
+  border: 0.5px solid black;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.nameOrd {
+  display: flex;
+}

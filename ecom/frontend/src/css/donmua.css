@@ -1,0 +1,72 @@
+.ulOrder 
+{
+    background: #fff;
+    margin-top: 0px;
+}
+.ulOrder .liOrder
+{
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 80px;
+    
+}
+.ulOrder .liOrder a
+{
+    text-decoration: none;
+}
+.orderPro
+{
+    display: flex;
+}
+.textPro
+{
+    display: flex;
+    flex-direction: column;
+}
+.ulOrder .liOrder.active 
+{
+    border-bottom: 3px solid #FF8800;
+}
+.ulOrder .liOrder a.active 
+{
+    background-color: none;
+}
+.nav-pills>li.active>a
+{
+    background: none;
+    color: #000;
+}
+.nav-pills>li.active:hover>
+
+.nav-pills>li.active>a:hover
+{
+    background: none;
+    color: #000;
+}
+.nav-pills>li.active:hover>a
+{
+    background: none;
+    color: #000;
+}
+.nav-pills:hover>li.active>a
+{
+    background: none;
+    color: #000;
+}
+.nav
+{
+    border: none;
+
+}
+.nav a 
+{
+    margin-right: 30px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  background: #fff;
+  border-bottom: 2px solid #FF8800;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}

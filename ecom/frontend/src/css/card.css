@@ -1,0 +1,70 @@
+.total1
+{
+    border-radius: 5px;
+    border: 1px solid #e4e5ee;
+    padding: 50px 40px 50px 40px;
+}
+.total1 h5 
+{
+    font-weight: 700;
+}
+.total1 h5 
+{
+    font-weight: 600;
+}
+.total1 .total-text
+{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.total1 button 
+{
+    width: 100%;
+    height: 50px;
+    background-color: #ed174a;
+    border: none;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.total1 button:hover
+{
+    background-color: #F0456E;
+}
+hr
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.total-free
+{
+    border-radius: 5px;
+    border: 1px solid #e4e5ee;
+    padding: 20px 40px 30px 40px;
+}
+.progress-bar
+{
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background-color: #f2f3f5;
+    border-radius: 0.625rem;
+}
+.progress-bar span 
+{
+    background-color: #ed174a;
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+table th {
+    border: none;
+    border-bottom: 1px solid #e4e5ee;
+    font-size: .75rem;
+    font-weight: 600;
+    color: #71778e;
+}

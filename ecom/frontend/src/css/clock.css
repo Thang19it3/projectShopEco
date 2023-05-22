@@ -1,0 +1,23 @@
+.clock
+{
+    display: flex;
+    margin-top: 20px;
+}
+.clock section
+{
+    background-color: #EDEEF5;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+.clock section p
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.clock span
+{
+    margin: 0px 10px;
+    font-size: 20px;
+}

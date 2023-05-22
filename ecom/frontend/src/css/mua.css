@@ -1,0 +1,26 @@
+.mua
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.mua input 
+{
+    width: 95%;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+}
+.location
+{
+    margin-bottom: -70px;
+}
+.btn
+{
+    background: #ff8800;
+    border: none;
+    padding: 20px 30px;
+    width: 300px;
+    margin-bottom: 100px;
+    font-weight: 700;
+    color: #fff;
+}

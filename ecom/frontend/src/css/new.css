@@ -1,0 +1,123 @@
+.newProduct
+{
+    margin-top: 100px;
+    width: 100%;
+}
+.newProduct h1 
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.newProduct form 
+{
+    display: flex;
+    flex-direction: column;
+}
+.danhMuc
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -70px;
+}
+.danhMuc label h4 
+{
+    font-weight: 600;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+h4 
+{
+    font-weight: 600;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+ 
+.danhMuc .danhMucLa
+{
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 50px;
+}
+.danhMuc select 
+{
+    width: 400px;
+}
+h3 
+{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.imageK
+{
+    display: flex;
+    flex-direction: row;
+}
+.fileImage
+{
+    border: 2px solid #ff8800;
+    border-style: dotted;
+    margin-right: 20px;
+    padding: 40px 40px 40px 40px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #ff8800;
+}
+.radio
+{
+    display: flex;
+}
+.radio button 
+{
+    width: 100px;
+    margin-right: 50px;
+    border: none;
+    background: red;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.gia
+{
+    width: 98%;
+    padding: 10px 20px 10px 30px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.gia1
+{
+    width: 98%;
+    height: 200px;
+    padding: 10px 20px 10px 30px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+select 
+{
+    width: 200px;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+.sup
+{
+    width: 30%;
+    margin-bottom: 100px;
+    background-color: #ff8800;
+    border: none;
+    padding: 20px 20px;
+    color: #fff;
+    font-weight: 600;
+}
+.location
+{
+    display: flex;
+}
